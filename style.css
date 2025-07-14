@@ -1,6 +1,13 @@
 .container {
   width: 575px;
-  height: 825px;
+  height: 650px;
+  position: absolute;
+  
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
   background-color: #797978;
   padding-left: 30px;
