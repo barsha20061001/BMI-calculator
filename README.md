@@ -9,6 +9,7 @@ to calculate BMI
 
 # Features
 🚀 Features of the BMI Calculator
+
 ✅ User-Friendly Interface – Clean and simple layout for quick BMI calculation.
 
 📏 Accurate BMI Calculation – Calculates Body Mass Index based on user input (height and weight).
