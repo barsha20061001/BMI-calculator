@@ -28,7 +28,7 @@ CSS 🎨 — Styling and responsive design
 
 JavaScript ⚙️ — BMI calculation and dynamic result display
 
-# Project Structure
+# 📂 Project Structure
 
 bmi-calculator/
 
@@ -41,6 +41,25 @@ bmi-calculator/
 ├── README.md        # Project overview and instructions
 
 └── assets/          # (Optional) images or other resources
+
+# 👤 Author
+Made with ❤️ by Barsha Mondal
+
+# 🤝 Contributions
+
+Contributions are welcome! If you'd like to help improve this project, you can:
+
+🐞 Report bugs or issues
+
+💡 Suggest new features
+
+📝 Improve documentation
+
+👩‍💻 Submit pull requests with code enhancements
+
+Thank you for helping make this project better! 🙌
+
+
 
 
 
