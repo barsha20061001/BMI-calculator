@@ -10,6 +10,7 @@
 
 # 📸 PREVIEW
 
+<img width="1516" height="866" alt="Screenshot 2025-07-15 174058" src="https://github.com/user-attachments/assets/75d9bb7b-b966-4aec-bf62-af8466b1a7ba" />
 
 
 # 🚀 Features
